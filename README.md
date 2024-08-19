@@ -45,11 +45,6 @@
 
   <br><br>
 
-  <!-- 움직이는 잔디 -->
-  <img src="https://github.com/hayoung78/hayoung78/blob/output/github-snake.svg" width="100%">
-
-  <br><br>
-
   <!-- 뱃지 -->
   [![GitHub followers](https://img.shields.io/github/followers/ESJung95?style=social)](https://github.com/ESJung95?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/ESJung95?style=social)](https://github.com/ESJung95?tab=repositories)
